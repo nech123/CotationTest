@@ -1,0 +1,39 @@
+.dark {
+  color: #dcdcdc;
+  background-color: #023047; 
+  transition: 1s;
+  }
+
+  .dark-mode-btn{
+    font-size: 1rem;
+    border: none;
+    border-radius: 50%;
+  }
+
+  .IconDay{
+    border-radius: 50%;
+    width: 2.65rem;
+    height: 2.65rem;
+    padding: 5.5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #FB8500;
+    background-color: #000;
+  }
+
+  .IconNight{
+    border-radius: 50%;
+    width: 2.65rem;
+    height: 2.65rem;
+    justify-content: center;
+    align-items: center;
+    padding: 5.5px;
+    display: flex;
+    color: #EDF6F9;
+    background-color: #000;
+
+    
+  }
+  
+
